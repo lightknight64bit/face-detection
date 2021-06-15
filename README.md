@@ -1,2 +1,3 @@
 # face-detection
-Face detection app that utilizes tensorflow.js
+Face detection web-app that utilizes tensorflow.js(The blazeface model)
+(App still under construction)
